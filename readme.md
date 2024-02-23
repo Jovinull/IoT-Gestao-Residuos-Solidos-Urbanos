@@ -93,5 +93,6 @@ Aqui estão algumas referências que podem ser úteis para ajudá-lo a aprofunda
 	- [Imagens Utilizadas](https://drive.google.com/drive/folders/17mGdQTGRChREig39GXtv6__PNpP42hFj?usp=sharing)
 	- [Código Final](https://drive.google.com/file/d/1qaXn7UBSK856b-wvqv8Q28z2boBRh18J/view?usp=drive_link)
 
-- [Artigo do meu Trabalho](https://labic.dev.br/article/9/)
+- **Trabalhos Produzidos**
+        - [Artigo do meu Trabalho](https://labic.dev.br/article/9/)
 
